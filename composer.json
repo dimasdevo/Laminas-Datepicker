@@ -1,0 +1,22 @@
+{
+  "name": "jenzri-nizar/laminas-bootstrapdatepicker",
+  "description": "Zend Framework bootstrap datepicker",
+  "keywords": ["laminas", "bootstrap","datepicker"],
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Jenzri Nizar",
+      "email": "jenzri.nizar.off@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.5 || ^7.0",
+    "laminas/laminas-form": "^2.9.2",
+    "laminas/laminas-mvc": "^3.1"
+  },
+  "autoload": {
+    "psr-4": { "laminas\\Bootstrapdatepicker\\": "src/" }
+  }
+}
