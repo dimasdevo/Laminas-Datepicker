@@ -1,14 +1,14 @@
 {
-  "name": "jenzri-nizar/laminas-bootstrapdatepicker",
-  "description": "Zend Framework bootstrap datepicker",
+  "name": "dimasdevo/laminas-bootstrapdatepicker",
+  "description": "Laminas Framework bootstrap datepicker",
   "keywords": ["laminas", "bootstrap","datepicker"],
   "license": [
     "MIT"
   ],
   "authors": [
     {
-      "name": "Jenzri Nizar",
-      "email": "jenzri.nizar.off@gmail.com"
+      "name": "dimasdevo",
+      "email": "dimasriskahadi01@gmail.com"
     }
   ],
   "require": {
